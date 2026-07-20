@@ -1,4 +1,4 @@
-Game project completed by EMMANUEL DZELAMONYUY TUME
+Game project
 
 #about space_game
 space_game is a simple 2D game consisting of an aeroplane located at the base of the screen which shoots down upstacles. The main aim of the game is to shoot 25 incoming obstacles from above

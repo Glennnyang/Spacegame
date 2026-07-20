@@ -1,2 +1,3 @@
 # Spacegame
-Space Game coded in c
+Space Game coded in pzthon
+
